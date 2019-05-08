@@ -8,6 +8,6 @@ The link to the dataset: https://www.kaggle.com/nolanbconaway/pitchfork-data
 
 We used bootstrapping method to create confidence interval for the mean of the review scores based on a 1000 observations of the scores. 
 
-Link to working notebook:
+Link to working notebook: https://github.com/AnnaLara/ds-challenge-08_boostrapping_seattle-ds-career-040119/blob/master/bootstrapping_challenge.ipynb
 
 
