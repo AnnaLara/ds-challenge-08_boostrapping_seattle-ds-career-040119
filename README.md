@@ -1,15 +1,13 @@
 # Bootstrapping Challenge
 
-## Instructions
+Team: Lee Mackey https://github.com/glmack and Anna Zubova. 
 
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
+We were working with music reviews dataset. The goal was to estimate the confidence interval for the mean of reviews scores.
 
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+The link to the dataset: https://www.kaggle.com/nolanbconaway/pitchfork-data
 
-## Resources
+We used bootstrapping method to create confidence interval for the mean of the review scores based on a 1000 observations of the scores. 
 
-* [Bootstrapping Demo Notebook](bootstrap-demo.ipynb)
+Link to working notebook:
+
+
